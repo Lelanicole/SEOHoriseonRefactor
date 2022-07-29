@@ -8,27 +8,35 @@ The purpose of the SEOHoriseonRefactor project is to modify an existant codebase
 
 In order to install:
 
-1. Open GitBash and navigate to your preferred directory where you would like the project to be installed using 'cd'.
+1. Open GitHub in your preferred browser and login to your account.
 
-2. In GitHub click the green "Code" button and copy the HTTPS key to your clipboard
+2. Navigate to the search bar and look up your desired repository.
 
-3. Use the 'git clone' command in GitBash and paste the copied HTTPS key.
+3. Click the green "Code" button and copy either the "HTTPS" key or the "SSH" key to your clipboard.
 
-4. Open your preferred code editor and open the "index.html" document in the "Develop" folder to view the HTML code. To open "style.css", navigate to Develop -> assets -> css -> style.css
+4. Open your terminal and navigate to your preferred directory where you would like the project to be installed using 'cd'.
 
-5. To view the SEOHoriseonRefactor project in your browser, right-click on the "index.html" file and select "Open in Browser"
+5. In GitHub click the green "Code" button and copy the HTTPS key to your clipboard
 
-   ![Open in Browser](assets/images/OpenInBrowser.png)
+6. Use the 'git clone' command in GitBash and paste the copied HTTPS key.
+
+7. Open your preferred code editor and open the "index.html" document in the "Develop" folder to view the HTML code. To open "style.css", navigate to Develop -> assets -> css -> style.css
+
+8. To view the SEOHoriseonRefactor project in your browser, right-click on the "index.html" file and select "Open in Browser"
 
 ## Usage
 
-1. In order to edit and view the project, navigate to the installed repo directory and open your preferred code editor.
+1. Using this project will allow the user to modify the code in order to make the website meet accessibility standards, as well as condense unnecessary code.
 
-2. Open the "index.html" document in the "Develop" folder to view the HTML code. To open "style.css", navigate to Develop -> assets -> css -> style.css .
+2. In order to edit and view the project, navigate to the installed repo directory and open your preferred code editor.
 
-![Open in Browser](assets/images/OpenInBrowser.png)
+3. Open your preferred code editor, then open the "index.html" document in the "Develop" folder to view the HTML code. To open "style.css", navigate to Develop -> assets -> css -> style.css .
 
-3.This takes you to view the website which should look like the following image.
+4. Right-click on the "index.html" tab at the top of your code editor, which should look something like the following image.
+
+![Open In Browser](assets/images/OpenInBrowser.png)
+
+5. This takes you to view the website which should look like the following image.
 
 ![Mock Up](assets/images/Usagescreenshot.png)
 
@@ -61,11 +69,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-```
-
-```
-
-```
-
-```
