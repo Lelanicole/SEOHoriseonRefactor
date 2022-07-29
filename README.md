@@ -34,11 +34,11 @@ In order to install:
 
 4. Right-click on the "index.html" tab at the top of your code editor, which should look something like the following image.
 
-![Open In Browser](assets/images/OpenInBrowser.png)
+![Open In Browser](assets/images/OpeninBrowser.png)
 
 5. This takes you to view the website which should look like the following image.
 
-![Mock Up](assets/images/Usagescreenshot.png)
+![Preview](assets/images/UsageScreenShot.png)
 
 ## Credits
 
