@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of the SEOHoriseonRefactor project is to modify an existant codebase that is optimized for search engines by following website stardards for accessibility. This was accomplished by adding semantic HTML elements, adding attributes that improved accessibility, rearranging formatting, and consolidating code.
+The purpose of the SEOHoriseonRefactor project is to modify an existant codebase that is optimized for search engines by following website stardards for accessibelements, adding attributes that improved accessibiility. This was accomplished by adding semantic HTML lity, rearranging formatting, and consolidating code.
 
 ## Installation
 
@@ -18,31 +18,19 @@ In order to install:
 
 5. To view the SEOHoriseonRefactor project in your browser, right-click on the "index.html" file and select "Open in Browser"
 
-   ````md
-       ![Open in Browser](assets/images/OpenInBrowser.png)
-
-   ```
-
-   ```
-   ````
+   ![Open in Browser](assets/images/OpenInBrowser.png)
 
 ## Usage
 
 1. In order to edit and view the project, navigate to the installed repo directory and open your preferred code editor.
 
-2. Open the "index.html" document in the "Develop" folder to view the HTML code. To open "style.css", navigate to Develop -> assets -> css -> style.css
+2. Open the "index.html" document in the "Develop" folder to view the HTML code. To open "style.css", navigate to Develop -> assets -> css -> style.css .
 
-   ```md
-   ![Open in Browser](assets/images/OpenInBrowser.png)
-   ```
+![Open in Browser](assets/images/OpenInBrowser.png)
 
-   ```md
-   ![Mock Up](assets/images/Usagescreenshot.png)
-   ```
+3.This takes you to view the website which should look like the following image.
 
-   ```
-
-   ```
+![Mock Up](assets/images/Usagescreenshot.png)
 
 ## Credits
 
