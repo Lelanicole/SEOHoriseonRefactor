@@ -18,9 +18,13 @@ In order to install:
 
 5. To view the SEOHoriseonRefactor project in your browser, right-click on the "index.html" file and select "Open in Browser"
 
-``````md
-    ![Open in Browser](assets/images/OpenInBrowser.png)
-    ```
+   ````md
+       ![Open in Browser](assets/images/OpenInBrowser.png)
+
+   ```
+
+   ```
+   ````
 
 ## Usage
 
@@ -28,17 +32,22 @@ In order to install:
 
 2. Open the "index.html" document in the "Develop" folder to view the HTML code. To open "style.css", navigate to Develop -> assets -> css -> style.css
 
-`````md
-    ![Open in Browser](assets/images/OpenInBrowser.png)
-    ```
+   ```md
+   ![Open in Browser](assets/images/OpenInBrowser.png)
+   ```
 
-````md
-    ![Mock Up](assets/images/Usagescreenshot.png)
-    ```
+   ```md
+   ![Mock Up](assets/images/Usagescreenshot.png)
+   ```
+
+   ```
+
+   ```
 
 ## Credits
 
 [W3schools](https://www.w3schools.com/)
+
 [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ## License
@@ -64,6 +73,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-````
-`````
-``````
+
+```
+
+```
+
+```
+
+```
