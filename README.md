@@ -34,11 +34,11 @@ In order to install:
 
 4. Right-click on the "index.html" tab at the top of your code editor, which should look something like the following image.
 
-![Open In Browser](assets/images/OpeninBrowser.png)
+![Open In Browser](../SEOHoriseonRefactor/Assets/images/OpeninBrowser.png)
 
 5. This takes you to view the website which should look like the following image.
 
-![Preview](assets/images/UsageScreenShot.png)
+![Preview](../SEOHoriseonRefactor/Assets/images/UsageScreenShot.png)
 
 ## Credits
 
